@@ -1,2 +1,11 @@
 **/node_modules
-/client/build
+tonzhon-music/client/build
+.idea
+*.log
+QQMusicApi/data/*
+*.DS_Store
+*.idea
+*.vscode
+*.history
+NeteaseCloudMusicApi/examples/moddef.json
+NeteaseCloudMusicApi/bin

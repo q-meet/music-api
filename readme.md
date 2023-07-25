@@ -14,7 +14,7 @@ docker其他常用命令
 考虑到应用一起听歌吧 开源地址：[https://github.com/JumpAlang/Jusic-Serve-Houses](https://github.com/JumpAlang/Jusic-Serve-Houses)
 后期可能要迁移服务器，也为了方便一起听歌吧的小伙伴在自己的服务器部署，制作一起听歌吧Docker镜像刻不容缓。
 
-```
+```text
 认识Docker
 以下内容摘抄自阮一峰博客Docker 入门教程，建议之前没有使用过docker的小伙伴先看下，我也是看这篇入门的。
 
